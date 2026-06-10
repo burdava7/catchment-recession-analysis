@@ -13,3 +13,16 @@ The workflow integrates:
 + CHMI discharge time series processing,
 + flood event detection,
 + recession analysis (time to 50% peak discharge).
+
+# Workflow
+
++ Load catchment polygons (4th order)
++ Select catchments with gauging stations
++ Remove catchments influenced by reservoirs
++ Overlay CORINE Land Cover data
++ Compute land use statistics
++ Export results to CSV
++ Load CHMI discharge time series
++ Detect extreme flood events
++ Compute recession time (t50)
++ Compare catchments
