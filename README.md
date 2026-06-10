@@ -27,7 +27,8 @@ The workflow integrates:
 + Detect extreme flood events
 + Compute recession time (t50)
 + Compare catchments
-![Model builder in QGIS](images/model_builder.png)    ![Artificial surfaces in selected catchments](images/detailed_catchment.png)
+![Model builder in QGIS](images/model_builder.png)
+![Artificial surfaces in selected catchments](images/detailed_catchment.png)
 
 # Study Concept
 
