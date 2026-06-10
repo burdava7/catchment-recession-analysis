@@ -13,6 +13,7 @@ The workflow integrates:
 + CHMI discharge time series processing,
 + flood event detection,
 + recession analysis (time to 50% peak discharge).
+![Gages and reservoir in Czech republic](images/catchment_g_r.png)
 
 # Workflow
 
