@@ -41,3 +41,32 @@ Initial findings suggest:
 + Higher permeable surface ratio → slower recession
 
 Note: results are based on a limited sample size.
+
+# Data Sources
+
++ CORINE Land Cover (Copernicus)
++ Czech Hydrometeorological Institute (CHMI)
++ Czech catchment delineation datasets
+
+# Technologies Used
+
++ QGIS (Model Builder)
++ Python
++ Pandas
++ NumPy
++ Matplotlib
++ CHMI hydrological data
++ CORINE Land Cover
+
+# Project Structure
+src/           Python scripts
+
+qgis/          QGIS model workflows
+
+data/          Input and processed data
+
+images/        Figures for README
+
+outputs/       Generated results
+
+docs/          Documentation
