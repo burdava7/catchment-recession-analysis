@@ -32,3 +32,12 @@ The workflow integrates:
 The project tests the following hypothesis:
 
 Catchments with a higher proportion of artificial surfaces exhibit faster flood wave recession compared to more permeable catchments.
+
+# Results
+
+Initial findings suggest:
+
++ Higher impermeable surface ratio → faster hydrological response
++ Higher permeable surface ratio → slower recession
+
+Note: results are based on a limited sample size.
