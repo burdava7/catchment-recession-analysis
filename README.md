@@ -26,3 +26,9 @@ The workflow integrates:
 + Detect extreme flood events
 + Compute recession time (t50)
 + Compare catchments
+
+# Study Concept
+
+The project tests the following hypothesis:
+
+Catchments with a higher proportion of artificial surfaces exhibit faster flood wave recession compared to more permeable catchments.
